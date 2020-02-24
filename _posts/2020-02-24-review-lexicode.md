@@ -20,4 +20,4 @@ Trong một post gần đây của Tổng thống Trump, ông có viết “to c
 
 Lexicode là cuốn sách giải nghĩa những từ khó trong tiếng Anh, nhưng rất hay được sử dụng bởi người bản xứ. Sách giải thích rất chi tiết, cặn kẽ, nhiều ví dụ minh hoạ. Học xong sách, bạn sẽ thấy reading dễ dàng hơn nhiều, cảm giác 9.0 Reading là làm được chứ không phải viễn vông.
 
-->(Trích thầy Dương Chí Vinh IELTS)
+            (Trích thầy Dương Chí Vinh IELTS)
