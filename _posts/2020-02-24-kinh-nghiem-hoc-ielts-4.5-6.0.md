@@ -49,4 +49,4 @@ Còn về phương pháp ôn Speaking, mình chia các đề Speaking ra thành 
 
 Còn đối với task 2, nó chia làm 4 dạng chính và mỗi dạng đều có template hết cho nên chỉ cần học chúng và cộng thêm từ vựng nữa là oke.
 
-->Tín Nguyễn
+<div style="text-align: right"> (Tín Nguyễn) </div>
