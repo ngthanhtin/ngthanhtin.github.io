@@ -14,7 +14,9 @@ Hello các bạn, mình mới thi ielts 7/12/2019 và đạt 6.0. Mình sẽ chi
 
 Đây là số điểm của mình:
 
-![Crepe](https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/diem_ielts.jpg?raw=true){: .center-block :}
+<p align="center">
+  <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/diem_ielts.jpg?raw=true">
+</p>
 
 ## Listening
 
