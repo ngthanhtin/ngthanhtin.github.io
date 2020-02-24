@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reinforcement learning
+title: Test
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [bandit, danbit, hello]
