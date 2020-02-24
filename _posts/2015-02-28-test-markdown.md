@@ -16,7 +16,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
+| bandit 1 | Next number | Previous number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
