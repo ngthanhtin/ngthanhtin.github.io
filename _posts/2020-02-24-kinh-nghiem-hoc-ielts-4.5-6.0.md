@@ -8,8 +8,6 @@ tags: [ielts]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
 Hello các bạn, mình mới thi ielts 7/12/2019 và đạt 6.0. Mình sẽ chia sẽ cách mà mình đã ôn luyện để đạt được mục tiêu này.
 
 Đây là số điểm của mình:
