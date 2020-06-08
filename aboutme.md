@@ -11,5 +11,6 @@ I have studied at University of Science, Ho Chi Minh city, Vietnam. My major is 
 
 ### Research Topics
 SLAM (Simultaneously Localization and Mapping). <br/>
-Autonomous Drone/Robot/Car </br>
+Autonomous Drone/Robot/Car.
+
 
