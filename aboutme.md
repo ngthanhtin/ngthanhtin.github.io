@@ -10,6 +10,6 @@ Hello and welcome to my website. My name is Nguyen Thanh Tin and I am currently 
 I have studied at University of Science, Ho Chi Minh city, Vietnam. My major is Computer Vision and Robotics and I am on this way to achieve my dream is to become an Robotics Vision Engineer.
 
 ### Research Topics
-SLAM (Simultaneously Localization and Mapping). </br>
+SLAM (Simultaneously Localization and Mapping). <br/>
 Autonomous Drone/Robot/Car </br>
 
