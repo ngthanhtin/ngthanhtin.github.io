@@ -4,13 +4,19 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-Hello and welcome to my website. My name is Nguyen Thanh Tin and I am currently an AI and Robotics Engineer.
+Hello and welcome to my website. My name is Nguyen Thanh Tin and I am currently a Phd student at Sejong University, Seoul, Korea.
 
 ### Education
-I have studied at University of Science, Ho Chi Minh city, Vietnam. My major is Computer Vision and Robotics and I am on this way to achieve my dream is to become an Robotics Vision Engineer.
-
+#### Bs. in Computer Vision and Robotics at University of Science, Ho Chi Minh city, Vietnam
+September, 2015 - July, 2019
+#### Research Assistant/Phd Student in Computer Science and Engineering at Sejong University, Seoul, Korea
+September, 2020 -- 
 ### Research Topics
-SLAM (Simultaneously Localization and Mapping). <br/>
-Autonomous Drone/Robot/Car.
+SLAM. <br/>
+Robot Navigation. <br/>
+Robot Manipulation. </br>
+Reinforcement Learning. </br>
+
+
 
 
