@@ -22,7 +22,7 @@ description: Work hard in slience, let your success be your noise
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  CV: "_data/CV_Sejong_Nguyen%20Thanh%20Tin.pdf"
+  CV: "/blob/master/_data/CV_Sejong_Nguyen Thanh Tin.pdf"
   Contact: "contact"
 
   # Resources:
@@ -71,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "ngthanhtinqn@gmail.com"
   facebook: tin.nguyenthanh.35175
   github: ngthanhtin
