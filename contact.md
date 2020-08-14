@@ -11,7 +11,7 @@ title: Contact
 **Github**: [Github](https://github.com/ngthanhtin) <br/>
 
 ### Office
-Computer Science and Engineering
-Human-Computer Interaction
-Sejong University
-209 Neungdong-ro, Gwangjin-gu, Seoul
+Computer Science and Engineering <br/>
+Human-Computer Interaction <br/>
+Sejong University <br/>
+209 Neungdong-ro, Gwangjin-gu, Seoul <br/>
