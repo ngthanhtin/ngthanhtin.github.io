@@ -71,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  # rss: false
+  rss: true
   email: "ngthanhtinqn@gmail.com"
   facebook: tin.nguyenthanh.35175
   github: ngthanhtin
@@ -90,6 +90,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
+  rss:true
   email: true
   facebook: true
   linkedin: true
