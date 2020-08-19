@@ -22,7 +22,7 @@ description: Work hard in slience, let your success be your noise
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  CV: /_data/CV_Sejong_Nguyen%20Thanh%20Tin.pdf
+  CV: ./_data/CV_Sejong_Nguyen%20Thanh%20Tin.pdf
   Contact: "contact"
 
   # Resources:
