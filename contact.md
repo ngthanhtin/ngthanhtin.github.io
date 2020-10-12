@@ -5,7 +5,7 @@ title: Contact
 ---
 ### Contact Details
 
-**Email**: ngthanhtinqn@gmail.com <br/>
+**Email**: ngthanhtinqn@gmail.com or nttin@seju.ac.kr <br/>
 **Facebook**: [Facebook](https://www.facebook.com/tin.nguyenthanh.35175) <br/>
 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-tha%CC%80nh-ti%CC%81n-438a1211a/) <br/>
 **Github**: [Github](https://github.com/ngthanhtin) <br/>
