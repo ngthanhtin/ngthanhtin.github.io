@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install Cuda on Ubuntu 18.04
+title: Install Torch with Cuda 10.0
 subtitle: Nvidia
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [settings]
