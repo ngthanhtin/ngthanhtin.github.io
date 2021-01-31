@@ -19,7 +19,8 @@ September, 2020 --
 SLAM. <br/>
 Robot Navigation. <br/>
 Robot Manipulation. <br/>
-Reinforcement Learning.
+Reinforcement Learning. <br/>
+Vision-Language Learning. <br/>
 
 
 
