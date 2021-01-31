@@ -8,14 +8,14 @@ tags: [cuda, nvidia, ubuntu]
 comments: true
 
 ---
-Hi các bạn, ở bài viết này mình sẽ huong dan cac ban cach cai dat Torch va cach lam sao de Torch lam viec voi cuda 10.0
-# in a terminal, run the commands WITHOUT sudo
-git clone https://github.com/torch/distro.git ~/torch --recursive
-cd ~/torch; bash install-deps;
+Hi các bạn, ở bài viết này mình sẽ hướng dẫn các bạn cách cài đặt Torch và cách làm sao để  Torch làm việc với Cuda 10.0
+# In the terminal, run the commands WITHOUT sudo
+git clone https://github.com/torch/distro.git ~/torch --recursive <br/>
+cd ~/torch <br/>
+bash install-deps <br/>
 
-O buoc nay, cac ban co the go:
-./install.sh
-de cai dat, nhung no chi lam viec voi cuda 5.0
+Ở bước này các bạn có thể  gõ : <br/>
+./install.sh để cài đặt, nhưng nó chỉ làm việc với cuda 5.0 <br/>
 
 Vi vay, neu muon lam viec voi cuda 10.0, ban se lam them nhung buoc sau day:
 1. Install the latest CMake from github repo (the latest FindCUDA.cmake will be installed)
