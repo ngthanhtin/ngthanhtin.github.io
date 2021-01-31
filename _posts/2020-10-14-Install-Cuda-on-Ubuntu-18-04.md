@@ -9,11 +9,11 @@ comments: true
 
 ---
 Hi các bạn, ở bài viết này mình sẽ huong dan cac ban cach cai dat cuda tren ubuntu 18.04
-1. Start terminal and remove any NVIDIA traces you may have on your machine.
+1. <b>Start terminal and remove any NVIDIA traces you may have on your machine.</b>
 
-sudo rm /etc/apt/sources.list.d/cuda*
-sudo apt remove --autoremove nvidia-cuda-toolkit
-sudo apt remove --autoremove nvidia-*
+sudo rm /etc/apt/sources.list.d/cuda* <br/>
+sudo apt remove --autoremove nvidia-cuda-toolkit <br/>
+sudo apt remove --autoremove nvidia-* <br/>
 
 2. Setup the correct CUDA PPA on your system
 
