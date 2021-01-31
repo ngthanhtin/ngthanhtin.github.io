@@ -16,7 +16,8 @@ September, 2020 --
 #### Research Assistant/Phd Student in Computer Science and Engineering at Sejong University, Seoul, Korea
 
 ### Research Topics
-SLAM. <br/>
+Localization. <br/>
+Object Tracking. <br/>
 Robot Navigation. <br/>
 Robot Manipulation. <br/>
 Reinforcement Learning. <br/>
