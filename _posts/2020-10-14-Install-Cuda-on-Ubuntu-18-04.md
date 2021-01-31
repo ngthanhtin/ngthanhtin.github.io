@@ -8,7 +8,7 @@ tags: [cuda, nvidia, ubuntu]
 comments: true
 
 ---
-Hi các bạn, ở bài viết này mình sẽ huong dan cac ban cach cai dat cuda tren ubuntu 18.04
+Hi các bạn, ở bài viết này mình sẽ hướng dẫn các bạn cách cài đặt Cuda trên Ubuntu 18.04
 <b>1. Start terminal and remove any NVIDIA traces you may have on your machine.</b>
 
 sudo rm /etc/apt/sources.list.d/cuda* <br/>
@@ -35,9 +35,8 @@ or sudo apt install libcudnn10<br/>
 
 sudo vi ~/.profile <br/>
 
-And add the following lines at the end of the file: <br/>
+And add the following lines at the end of the file to set PATH for cuda 10.1 installation: <br/>
 
-# set PATH for cuda 10.1 installation <br/>
 if [ -d "/usr/local/cuda-10.1/bin/" ]; then <br/>
     export PATH=/usr/local/cuda-10.1/bin${PATH:+:${PATH}} <br/>
     export LD_LIBRARY_PATH=/usr/local/cuda-10.1/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}} <br/>
