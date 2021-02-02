@@ -8,7 +8,7 @@ title: Publications
 Ly Quoc Ngoc, <b>Nguyen Thanh Tin</b>, Le Bao Tuan, <i>International Journal of Advanced Computer Science and Applications (SAI)</i>, 14, April, 2020 <br/>
 
 <p align="center">
-  <video width="200" height="150" controls>
+  <video height="150" controls>
     <source src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/robot_localization/robot_localization.mp4?raw=true" type="video/mp4">
   </video>
   <video width="200" height="150" controls>
