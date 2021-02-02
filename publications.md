@@ -16,9 +16,9 @@ Ly Quoc Ngoc, <b>Nguyen Thanh Tin</b>, Le Bao Tuan, <i>International Journal of 
     <source src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/robot_localization/3D_bounding_box.mp4?raw=true" type="video/mp4">
   </video>
   <video width="200" height="150" controls>
-    <source src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/robot_localization/robot_localization.mp4?raw=true" type="video/mp4">
+    <source src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/robot_localization/tracking_PF_CF_YOLO3.mp4?raw=true" type="video/mp4">
   </video>
   <video width="200" height="150" controls>
-    <source src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/robot_localization/tracking_PF_CF_YOLO3.mp4?raw=true" type="video/mp4">
+    <source src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/robot_localization/robot_localization.mp4?raw=true" type="video/mp4">
   </video>
 </p>
