@@ -44,8 +44,17 @@ Hình ảnh:
 </p>
 Và ta sử dụng 2 lớp attention, thì lớp attention đầu tiên sẽ định vị những đối tượng như <b>basket, bicycle</b> sau đó ở những lớp attention tiếp theo sẽ dần dần loại bỏ những đối tượng không liên quan và cho ra đối tượng cần thiết.<br/>
 <b>3.1 Image Model</b><br/>
-Ở bài báo này, họ đã dùng 
+Ở bài báo này, họ đã dùng mô hình VGG Net để lấy feature representation của image.<br/>
+<p align="center">
+  <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/vqa/vgg.png?raw=true">
+</p>
+
 <b>3.2 Question Model</b><br/>
+Đối với text presentation, ở bài báo họ sử dụng 2 cachs: <b>(1) dùng lstm và sử dụng hidden để làm vector representation cho text</b> và <b>(2)Sử dụng unigram để lấy vector presentation cho từng word, sau đó concatenate các vector này lại tạo thành vector representation cho text</b>
+<p align="center">
+  <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/vqa/lstm.png?raw=true">
+</p>
+
 <b>3.3 Stacked Attention Network</b><br/>
 
 <section id="4. Giải thuật">
