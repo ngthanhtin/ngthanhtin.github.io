@@ -39,6 +39,8 @@ Giới thiệu bài toàn Visual Question AnsweringGiới thiệu bài toàn Vis
 
 4. Giải thuật
 
+<section id="5. Ứng dụng">
 5. Ứng dụng
+</section>
 
 
