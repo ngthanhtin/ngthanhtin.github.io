@@ -76,7 +76,7 @@ Sau khi đã có 2 vector representation cho image <img src="https://render.gith
 <section id="4. Giải thuật">
 <b>4. Giải thuật</b>
 </section>
-
+Update...
 
 <section id="5. Ứng dụng">
 <b>5. Ứng dụng</b>
