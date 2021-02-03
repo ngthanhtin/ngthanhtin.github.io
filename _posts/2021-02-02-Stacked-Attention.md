@@ -69,7 +69,7 @@ Sau đó, họ biến đổi <img src="https://render.githubusercontent.com/rend
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=h_{t} = LSTM(x_{t}), t \in {1,2,...,T}">
 </p>
-Cuối cùng, vector representation của question sẽ là hidden vector ở layer cuối cùng của LSTM, <img src="https://render.githubusercontent.com/render/math?math=v_{Q} = h_{T}">
+Cuối cùng, vector representation của question sẽ là hidden vector ở layer cuối cùng của LSTM, <img src="https://render.githubusercontent.com/render/math?math=v_{Q} = h_{T}"><br/>
 <b>3.3 Stacked Attention Network</b><br/>
 
 <section id="4. Giải thuật">
