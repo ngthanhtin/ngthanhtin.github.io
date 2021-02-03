@@ -9,7 +9,8 @@ comments: true
 
 ---
 Hi, xin chào các bạn, hôm này mình sẽ giới thiệu cho các bạn mô hình <b>Stacked Attention</b> được dùng trong bài toán <b>Visual Question Answering (VQA)</b><br/>
-Link paper: [Stacked Attention Networks for Image Question Answering (2016)](https://arxiv.org/abs/1511.02274)
+Link paper: [Stacked Attention Networks for Image Question Answering (2016)](https://arxiv.org/abs/1511.02274)<br/>
+Link code: [Code](https://github.com/rs9000/VisualReasoning_MMnet)
 
 Nội dung chính sẽ bao gồm các phần sau:<br/>
 <a href="#1. Giới thiệu bài toàn Visual Question Answering">1. Giới thiệu bài toàn Visual Question Answering</a> <br/>
