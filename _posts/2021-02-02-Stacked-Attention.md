@@ -41,6 +41,7 @@ Hình ảnh:
 <p align="center">
   <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/vqa/process.png?raw=true">
 </p>
+Và ta sử dụng 2 lớp attention, thì lớp attention đầu tiên sẽ định vị những đối tượng như <b>basket, bicycle</b> sau đó ở những lớp attention tiếp theo sẽ dần dần loại bỏ những đối tượng không liên quan và cho ra đối tượng cần thiết.
 
 <section id="4. Giải thuật">
 <b>4. Giải thuật</b>
