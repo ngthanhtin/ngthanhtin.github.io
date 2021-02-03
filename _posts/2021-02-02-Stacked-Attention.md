@@ -25,7 +25,6 @@ Giới thiệu bài toàn Visual Question Answering
 Giới thiệu bài toàn Visual Question Answering
 Giới thiệu bài toàn Visual Question AnsweringGiới thiệu bài toàn Visual Question Answering
 Giới thiệu bài toàn Visual Question Answering
-
 Giới thiệu bài toàn Visual Question Answering
 Giới thiệu bài toàn Visual Question Answering
 Giới thiệu bài toàn Visual Question Answering
