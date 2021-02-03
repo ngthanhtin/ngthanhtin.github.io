@@ -71,7 +71,7 @@ Sau đó, họ biến đổi <img src="https://render.githubusercontent.com/rend
 </p>
 Cuối cùng, vector representation của question sẽ là hidden vector ở layer cuối cùng của LSTM, <img src="https://render.githubusercontent.com/render/math?math=v_{Q} = h_{T}"><br/>
 <b>3.3 Stacked Attention Network</b><br/>
-
+Sau khi đã có 2 vector representation cho image <img src="https://render.githubusercontent.com/render/math?math=v_{I}"> và text <img src="https://render.githubusercontent.com/render/math?math=v_{Q}">, ta sẽ đưa 2 thứ này qua mạng <b>Stacked Attention (SAN)</b> để dự đoán câu trả lời.<br/> 
 <section id="4. Giải thuật">
 <b>4. Giải thuật</b>
 </section>
