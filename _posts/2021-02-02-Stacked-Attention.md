@@ -21,21 +21,7 @@ Nội dung chính sẽ bao gồm các phần sau:<br/>
 <section id="1. Giới thiệu bài toàn Visual Question Answering">
 1. Giới thiệu bài toàn Visual Question Answering
 </section>
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question AnsweringGiới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question Answering
-Giới thiệu bài toàn Visual Question AnsweringGiới thiệu bài toàn Visual Question Answering
+Bài toán Visual Question Answering (VQA) là một trong những bài toán có sự kết hợp giữa Vision và Language. Đây là bài toán trả lời một câu hỏi dựa vào hình ảnh, mô hình vì thế phải học được sự liên hệ giữa hình ảnh và ngôn ngữ, từ đó đưa ra được câu trả lời phù hợp.
 
 <section id="2. Nguyên lý">
 2. Nguyên lý
