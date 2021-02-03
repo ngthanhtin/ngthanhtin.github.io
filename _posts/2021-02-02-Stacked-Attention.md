@@ -28,8 +28,8 @@ Bài toán Visual Question Answering (VQA) là một trong những bài toán c�
 
 <section id="2. Nguyên lý">
 2. Nguyên lý
-a
 </section>
+a
 
 <section id="3. Phương pháp">
 3. Phương pháp
