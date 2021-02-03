@@ -103,7 +103,7 @@ Tương tự với weighted sum và query vector:<br/>
 </p>
 Cuối cùng, xác suất của đáp án sẽ được tính như sau: <br/>
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=p_{ans}=softmax(W_{u}u^{K} + b_{u})">
+<img src="https://render.githubusercontent.com/render/math?math=p_{ans}=softmax(W_{u}u^{K} {+} b_{u})">
 </p>
 
 <section id="4. Giải thuật">
