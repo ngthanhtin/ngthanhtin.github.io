@@ -14,9 +14,9 @@ Link paper: [Stacked Attention Networks for Image Question Answering (2016)](htt
 Nội dung chính sẽ bao gồm các phần sau:
 
 <a href="#1. Giới thiệu bài toàn Visual Question Answering">1. Giới thiệu bài toàn Visual Question Answering</a> <br/>
-<a href="2. Nguyên lý">2. Nguyên lý</a> <br/>
-<a href="3. Phương pháp">3. Phương pháp</a> <br/>
-<a href="4. Giải thuật">4. Giải thuật</a> <br/>
+<a href="#2. Nguyên lý">2. Nguyên lý</a> <br/>
+<a href="#3. Phương pháp">3. Phương pháp</a> <br/>
+<a href="#4. Giải thuật">4. Giải thuật</a> <br/>
 <a href="#5. Ứng dụng">5. Ứng dụng</a> <br/>
 
 <section id="1. Giới thiệu bài toàn Visual Question Answering">
