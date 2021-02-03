@@ -42,6 +42,9 @@ Hình ảnh:
   <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/vqa/attention.png?raw=true">
 </p>
 Và ta sử dụng 2 lớp attention, thì lớp attention đầu tiên sẽ định vị những đối tượng như <b>basket, bicycle</b> sau đó ở những lớp attention tiếp theo sẽ dần dần loại bỏ những đối tượng không liên quan và cho ra đối tượng cần thiết.
+<b>3.1 Image Model</b><br/>
+<b>3.2 Question Model</b>
+<b>3.3 Stacked Attention Network</b>
 
 <section id="4. Giải thuật">
 <b>4. Giải thuật</b>
