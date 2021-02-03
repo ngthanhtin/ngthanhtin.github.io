@@ -63,6 +63,13 @@ Sau đó, họ biến đổi <img src="https://render.githubusercontent.com/rend
   <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/vqa/lstm.png?raw=true">
 </p>
 
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=x_{t} = W_{e}q_{t}, t \in {1,2,...,T}">
+</p>
+
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=v_{I} = tanh(W_{I}f_{I} + b_{I})">
+</p>
 <b>3.3 Stacked Attention Network</b><br/>
 
 <section id="4. Giải thuật">
