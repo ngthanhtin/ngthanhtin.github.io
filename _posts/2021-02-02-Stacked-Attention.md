@@ -36,7 +36,7 @@ Nguyên lý của bài toán đơn giản là dùng biểu diễn ngữ nghĩa c
 <b>3. Phương pháp</b>
 </section>
 Bài báo đề xuất phương pháp Stacked Attention, đây là một phương pháp cho phép diễn dịch hình ảnh theo nhiều bước. Ví dụ cho câu hỏi và hình ảnh sau:<br/>
-Câu hỏi: <b> What are sitting in the basket on a bicycle </b>
+Câu hỏi: <b> What are sitting in the basket on a bicycle </b><br/>
 Hình ảnh:
 <p align="center">
   <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/vqa/process.png?raw=true">
