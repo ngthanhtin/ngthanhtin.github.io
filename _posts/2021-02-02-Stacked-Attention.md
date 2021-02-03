@@ -77,7 +77,7 @@ Mô hình SAN được mô tả như sau: <br/>
 <p align="center">
 <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/vqa/san.png?raw=true">
 </p>
-
+Bước đầu tiên, mô hình sẽ đưa <img src="https://render.githubusercontent.com/render/math?math=v_{I}"> và <img src="https://render.githubusercontent.com/render/math?math=v_{Q}"> qua một lớp perceptron, sau đó tạo ra <b>attention distribution</b> bằng một lớp softmax: <br/>
 <section id="4. Giải thuật">
 <b>4. Giải thuật</b>
 </section>
