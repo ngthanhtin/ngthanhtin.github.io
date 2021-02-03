@@ -17,6 +17,7 @@ Nội dung chính sẽ bao gồm các phần sau:<br/>
 <a href="#3. Phương pháp">3. Phương pháp</a> <br/>
 <a href="#4. Giải thuật">4. Giải thuật</a> <br/>
 <a href="#5. Ứng dụng">5. Ứng dụng</a> <br/>
+<a href="#6. Tham khảo">6. Tham khảo</a> <br/>
 
 <section id="1. Giới thiệu bài toàn Visual Question Answering">
 <b>1. Giới thiệu bài toàn Visual Question Answering</b>
@@ -41,10 +42,11 @@ Hình ảnh:
 <p align="center">
   <img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/vqa/attention.png?raw=true">
 </p>
-Và ta sử dụng 2 lớp attention, thì lớp attention đầu tiên sẽ định vị những đối tượng như <b>basket, bicycle</b> sau đó ở những lớp attention tiếp theo sẽ dần dần loại bỏ những đối tượng không liên quan và cho ra đối tượng cần thiết.
+Và ta sử dụng 2 lớp attention, thì lớp attention đầu tiên sẽ định vị những đối tượng như <b>basket, bicycle</b> sau đó ở những lớp attention tiếp theo sẽ dần dần loại bỏ những đối tượng không liên quan và cho ra đối tượng cần thiết.<br/>
 <b>3.1 Image Model</b><br/>
-<b>3.2 Question Model</b>
-<b>3.3 Stacked Attention Network</b>
+Ở bài báo này, họ đã dùng 
+<b>3.2 Question Model</b><br/>
+<b>3.3 Stacked Attention Network</b><br/>
 
 <section id="4. Giải thuật">
 <b>4. Giải thuật</b>
@@ -56,3 +58,6 @@ a
 </section>
 aa
 
+<section id="6. Tham khảo">
+<b>6. Tham khảo</b>
+</section>
