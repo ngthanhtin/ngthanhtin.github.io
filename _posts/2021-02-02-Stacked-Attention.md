@@ -79,8 +79,8 @@ Mô hình SAN được mô tả như sau: <br/>
 </p>
 Bước đầu tiên, mô hình sẽ đưa <img src="https://render.githubusercontent.com/render/math?math=v_{I}"> và <img src="https://render.githubusercontent.com/render/math?math=v_{Q}"> qua một lớp perceptron, sau đó tạo ra <b>attention distribution</b> bằng một lớp softmax: <br/>
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=h_{A} = tanh(W{I,A}v_{I} \bigoplus(W_{Q,A}v_{Q} + b_{A}))"><br/>
-<img src="https://render.githubusercontent.com/render/math?math=p_{I} = softmax(W_{p}h_{A} + b_{p})">
+<img src="https://render.githubusercontent.com/render/math?math=h_{A} = tanh(W{I,A}v_{I} \bigoplus(W_{Q,A}v_{Q} %2B b_{A}))"><br/>
+<img src="https://render.githubusercontent.com/render/math?math=p_{I} = softmax(W_{p}h_{A} %2B b_{p})">
 </p>
 Sau khi có <b>attention distribution</b>, ta lấy weighted sum của distribution và image representation theo công thức: <br/>
 <p align="center">
@@ -88,22 +88,22 @@ Sau khi có <b>attention distribution</b>, ta lấy weighted sum của distribut
 </p>
 Cuối cùng, tính ra query vector dùng để encode thông tin của image và question, sau đó dùng nó để tìm ra câu trả lời: <br/>
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=u = \tilde{v}_{I} + v_{Q}">
+<img src="https://render.githubusercontent.com/render/math?math=u = \tilde{v}_{I} %2B v_{Q}">
 </p>
 
 Tuy nhiên, mô hình SAN sẽ lặp lại các bước trên để đưa ra một query đúng hơn. Mỗi lần lặp lại là một lớp attention, vì vậy, đối với lớp attention thứ k, chúng ta sẽ tính như sau: <br/>
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=h^{k}_{A} = tanh(W^{k}_{I,A}v_{I} \bigoplus(W^{k}_{Q,A}u^{k-1} + b^{k}_{A}))"><br/>
-<img src="https://render.githubusercontent.com/render/math?math=p^{k}_{I} = softmax(W^{k}_{p}h^{k}_{A} + b^{k}_{p})">
+<img src="https://render.githubusercontent.com/render/math?math=h^{k}_{A} = tanh(W^{k}_{I,A}v_{I} \bigoplus(W^{k}_{Q,A}u^{k-1} %2B b^{k}_{A}))"><br/>
+<img src="https://render.githubusercontent.com/render/math?math=p^{k}_{I} = softmax(W^{k}_{p}h^{k}_{A} %2B b^{k}_{p})">
 </p>
 Tương tự với weighted sum và query vector:<br/>
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=\tilde{v}^{k}_{I} = \sum_{i}p^{k}_{i}v_{i}"><br/>
-<img src="https://render.githubusercontent.com/render/math?math=u^{k} = \tilde{v}^{k}_{I} + u^{k-1}">
+<img src="https://render.githubusercontent.com/render/math?math=u^{k} = \tilde{v}^{k}_{I} %2B u^{k-1}">
 </p>
 Cuối cùng, xác suất của đáp án sẽ được tính như sau: <br/>
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=p_{ans}=softmax(W_{u}u^{K} {+} b_{u})">
+<img src="https://render.githubusercontent.com/render/math?math=p_{ans}=softmax(W_{u}u^{K} %2B b_{u})">
 </p>
 
 <section id="4. Giải thuật">
