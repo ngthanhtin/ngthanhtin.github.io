@@ -71,3 +71,4 @@ Hiện nay, các bài toán kết hợp vision và language đang là một hot 
 <section id="6. Tham khảo">
 <b>6. Tham khảo</b>
 </section>
+Yang, Zichao, et al. "Stacked attention networks for image question answering." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.<br/>
