@@ -88,7 +88,10 @@ Sau khi có <b>attention distribution</b>, ta lấy weighted sum của distribut
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=\tilde{v}_{I} = \sum_{i}p_{i}v_{i}">
 </p>
-
+Cuối cùng, tính ra query vector dùng để encode thông tin của image và question, sau đó dùng nó để tìm ra câu trả lời: <br/>
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=u = \tilde{v}_{I} + v_{Q}">
+</p>
 
 
 <p align="center">
