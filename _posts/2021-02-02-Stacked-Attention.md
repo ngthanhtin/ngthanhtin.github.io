@@ -79,7 +79,7 @@ Mô hình SAN được mô tả như sau: <br/>
 </p>
 Bước đầu tiên, mô hình sẽ đưa <img src="https://render.githubusercontent.com/render/math?math=v_{I}"> và <img src="https://render.githubusercontent.com/render/math?math=v_{Q}"> qua một lớp perceptron, sau đó tạo ra <b>attention distribution</b> bằng một lớp softmax: <br/>
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=h_{A} = tanh(W^{k}_{I,A}v_{I} \bigoplus(W^{k}_{Q,A}u^{k-1} + b^{k}_{A}))">
+<img src="https://render.githubusercontent.com/render/math?math=h_{A} = tanh(W{I,A}v_{I} \bigoplus(W_{Q,A}v_{Q} + b_{A}))">
 </p>
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=p_{I} = softmax(W_{p}h_{A} + b_{p})">
