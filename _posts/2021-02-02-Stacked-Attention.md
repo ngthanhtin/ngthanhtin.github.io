@@ -2,7 +2,7 @@
 layout: post
 title: Stacked Attention for Visual Question Answering
 subtitle: Attention
-thumbnail-img: /_data/vqa/attention.png
+image: /_data/vqa/attention.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [settings]
 tags: [vqa, attention]
