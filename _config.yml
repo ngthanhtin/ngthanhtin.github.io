@@ -22,8 +22,8 @@ description: Work hard in slience, let your success be your noise
 navbar-links:
   Posts:
     - Machine Learning: "aboutme"
-    - Natural Language Processing: "aboutme"
-    - Reinforcement Learning: "aboutme"
+    - Natural Language Processing: "publications"
+    - Reinforcement Learning: "contact"
     - AI/Robotics: "aboutme"
   About Me: "aboutme"
   Publications: "publications"
