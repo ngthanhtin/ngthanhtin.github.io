@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Single Object Tracking with Particle Filter
-subtitle: object-tracking-with-particle-filter
+title: Multiple Object Tracking with Kalman Filter and Hungary Algorithm
+subtitle: object-tracking-with-kalman-filter-hungary-algorithm
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [settings]
-tags: [single-object-tracking, particle-filter]
+tags: [multiple-object-tracking, kalman-filter, hungary-algorithm]
 comments: true
 
 ---
