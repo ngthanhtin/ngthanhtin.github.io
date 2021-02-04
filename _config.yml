@@ -20,7 +20,10 @@ description: Work hard in slience, let your success be your noise
 
 # List of links in the navigation bar
 navbar-links:
-  Posts:
+  Learn Language:
+    - English: "english"
+    - Korea: "korea"
+  Tech:
     - Machine Learning: "aboutme"
     - Natural Language Processing: "publications"
     - Reinforcement Learning: "contact"
