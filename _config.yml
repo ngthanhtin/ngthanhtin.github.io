@@ -25,7 +25,6 @@ navbar-links:
     - Natural Language Processing: "aboutme"
     - Reinforcement Learning: "aboutme"
     - AI/Robotics: "aboutme"
-
   About Me: "aboutme"
   Publications: "publications"
   CV: "/_data/mycv.pdf"
