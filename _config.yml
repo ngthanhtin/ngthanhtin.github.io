@@ -20,11 +20,11 @@ description: Work hard in slience, let your success be your noise
 
 # List of links in the navigation bar
 navbar-links:
-  Post: "tinai"
-  About Me: "aboutme"
-  Publications: "publications"
-  CV: "/_data/mycv.pdf"
-  Contact: "contact"
+  # Post: "tinai"
+  # About Me: "aboutme"
+  # Publications: "publications"
+  # CV: "/_data/mycv.pdf"
+  # Contact: "contact"
 
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
