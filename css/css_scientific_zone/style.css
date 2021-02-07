@@ -1319,11 +1319,12 @@ font-size:55px;
 /*********************details_main_end****************/
 /*********************gallery_main****************/
 #gallery_main{ 
- background-image: url(../../img/path.jpg);
+ background-image: url(../../img/img_scientific_zone/korea.jpg);
  background-repeat: no-repeat;
  background-size: cover;
  padding-top: 197px;
  padding-bottom: 140px;
+ height: 700px;
  }
 .gallery_main{
  background-color: #00000082;
