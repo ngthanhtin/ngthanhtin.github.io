@@ -418,7 +418,13 @@ color:#fff;
 .port effect-1{ 
 height:100%;  
   }
+
+.business_3 img {
+  /* width: 350px; */
+  height: 225px;
+}
 /*----*/
+
 #business .text-desc{
 	position: absolute; 
 	left: 0; top: 0;
@@ -431,7 +437,7 @@ height:100%;
 /* effect-7 css */
 #business .port{
 	float: left;
-	 width: 100%; 
+   width: 100%; 
 	 position: relative; 
 	 overflow: hidden;
 	 text-align: center;
@@ -459,7 +465,7 @@ color:#fff;
 	 left: 0;
  }
 #business .port.effect-1:hover img{
-	left: 50%;
+  left: 50%;
 }
 #business .port.effect-1 .text-desc{
 	transform: perspective(600px) rotateY(90deg); 
