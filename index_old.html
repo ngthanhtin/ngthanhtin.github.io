@@ -1,0 +1,152 @@
+---
+layout: 
+title: Tin
+subtitle: Everything about my work, study, hobbies, etc
+use-site-title: true
+---
+
+<!-- <div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | relative_url }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: site.date_format }}
+    </p>
+
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %} -->
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- <title>Moschino | Minimalist Free HTML Portfolio by WowThemes.net</title> -->
+<link rel='stylesheet' href='css/woocommerce-layout.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)'/>
+<link rel='stylesheet' href='css/woocommerce.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/font-awesome.min.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/style.css' type='text/css' media='all'/>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Oswald:400,500,700%7CRoboto:400,500,700%7CHerr+Von+Muellerhoff:400,500,700%7CQuattrocento+Sans:400,500,700' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/easy-responsive-shortcodes.css' type='text/css' media='all'/>
+</head>
+<body class="archive post-type-archive post-type-archive-product woocommerce woocommerce-page">
+<div id="page">
+	<div class="container">
+		<header id="masthead" class="site-header">
+		<div class="site-branding">
+			<h1 class="site-title"><a href="index.html" rel="home">Nguyen Thanh Tin</a></h1>
+			<!-- <h2 class="site-description">Minimalist Portfolio HTML Template</h2> -->
+		</div>
+		</header>
+		<!-- #masthead -->
+		<div id="content" class="site-content">
+			<div id="primary" class="content-area column full">
+				<main id="main" class="site-main" role="main">
+				<ul class="products">
+					<li class="first product">
+					<a href="https://ngthanhtin.github.io/tinai/">
+					<img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/homepage/news.jpg?raw=true" width="50" height="50" alt="">
+					<h3>POSTS</h3>
+					</li>
+
+					<li class="product">
+					<a href="https://ngthanhtin.github.io/aboutme/">
+					<img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/homepage/thinkingman.jpg?raw=true" width="300" height="300" alt="">
+					<h3>ABOUT ME</h3>
+					</li>
+					
+					<li class="product">
+					<a href="https://ngthanhtin.github.io/publications/">
+					<img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/homepage/researchpaper.png?raw=true" width="300" height="300" alt="">
+					<h3>PUBLICATIONS</h3>
+					</li>
+					
+					<li class="last product">
+					<a href="https://ngthanhtin.github.io/_data/mycv.pdf">
+					<img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/homepage/cv.jpg?raw=true" width="300" height="300" alt="">
+					<h3>CV</h3>
+					</li>
+					
+					<li class="first product">
+					<a href="https://ngthanhtin.github.io/contact/">
+					<img src="https://github.com/ngthanhtin/ngthanhtin.github.io/blob/master/_data/homepage/contact.png?raw=true" width="300" height="300" alt="">
+					<h3>CONTACT</h3>
+					</li>
+					
+				</ul>
+				<nav class="woocommerce-pagination">
+				</nav>
+				</main>
+				<!-- #main -->
+			</div>
+			<!-- #primary -->
+		</div>
+		<!-- #content -->
+	</div>
+	
+	<!-- <a href="#top" class="smoothup" title="Back to top"><span class="genericon genericon-collapse"></span></a> -->
+</div>
+
+<!-- #page -->
+<script src='js/js2/jquery.js'></script>
+<script src='js/js2/plugins.js'></script>
+<script src='js/js2/scripts.js'></script>
+<script src='js/js2/masonry.pkgd.min.js'></script>
+</body>
+</html>
