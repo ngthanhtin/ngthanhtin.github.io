@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-# subtitle: Why don't you go on a date with me
 ---
 ### Contact Details
 
