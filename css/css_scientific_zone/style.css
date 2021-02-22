@@ -1094,6 +1094,10 @@ margin-top:50px;
 .blog_home_2 li a:hover{ 
  color: #de5221;
  }
+ .blog_home_1 img {
+  width: 400px;
+  height: 350px;
+}
 /*********************blog_home_end****************/
 /*********************footer****************/
 #footer{
