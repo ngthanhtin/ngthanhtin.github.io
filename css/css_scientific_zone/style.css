@@ -5,6 +5,9 @@ Author: Templates On Web
 Author URI: http://templateonweb.com/
 Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
 */
+html {
+  scroll-behavior: smooth;
+}
 body{
      font-family:"Times New Roman", Times, serif;
   }
