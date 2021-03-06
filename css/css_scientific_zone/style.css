@@ -1361,9 +1361,10 @@ font-size:55px;
 /*********************gallery_main_end****************/
 /*********************team_main****************/
 #team_main{ 
- background-image: url(../../img/img_scientific_zone/work_experience.jpg);
+ background-image: url(../../img/img_scientific_zone/we.png);
  background-repeat: no-repeat;
- background-size: cover;
+ background-size: 90%;
+ background-position: center;
  padding-top: 197px;
  padding-bottom: 140px;
  }
