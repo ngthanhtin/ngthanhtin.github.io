@@ -151,9 +151,10 @@ color:#de5221;
 
 /*********************center****************/
 #center{
- background-image: url(../../img/index_img2.jpg);
+ background-image: url(../../img/home_cover.png);
  background-repeat: no-repeat;
- background-size: cover;
+ background-size: 50%;
+ background-position: center;
  padding-top:150px;
  padding-bottom:120px;
   }
@@ -1299,9 +1300,10 @@ font-size:55px;
 /*********************blog_main_end****************/
 /*********************details_main****************/
 #details_main{ 
- background-image: url(../../img/img_scientific_zone/research.jpg);
+ background-image: url(../../img/research_cover.png);
  background-repeat: no-repeat;
- background-size: cover;
+ background-size: 20%;
+ background-position: center;
  padding-top: 197px;
  padding-bottom: 140px;
  }
@@ -1364,7 +1366,7 @@ font-size:55px;
 /*********************gallery_main_end****************/
 /*********************team_main****************/
 #team_main{ 
- background-image: url(../../img/img_scientific_zone/we.png);
+ background-image: url(../../img/experience_cover.png);
  background-repeat: no-repeat;
  background-size: 90%;
  background-position: center;
@@ -1402,6 +1404,7 @@ font-size:55px;
  background-size: cover;
  padding-top: 197px;
  padding-bottom: 140px;
+ height: 1200px;
  }
 .contact_main{
  background-color: #00000082;
