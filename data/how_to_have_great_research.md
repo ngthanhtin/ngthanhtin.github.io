@@ -2,18 +2,20 @@
 
 * “To become a great researcher, don’t answer your questions, but question your answers. When you need to know the facts, you must inquire, not just make assumptions. Many people don’t want to ask questions because it exposes them to confront the reality of their circumstance, which may scare them. Moreover, asking questions forces them into the laborious task of thinking, which is why they fail to ask questions.” –Jun Liu
 
-* Savage’s approach to research, via Mosteller（copy from Jun Liu’s webpage which is from Jon McAuliffe’s):
-<ul>
-  
-  <li> As soon as a problem is stated, start right away to solve it. Use simple examples. </li>
+<ul> 
+  <li>Savage’s approach to research, via Mosteller（copy from Jun Liu’s webpage which is from Jon McAuliffe’s):</li>
+  <ul>
 
-  <li> Keep starting from first principles, explaining again and again what you are trying to do.</li>
+    <li> As soon as a problem is stated, start right away to solve it. Use simple examples. </li>
 
-  <li> Believe that this problem can be solved and that you will enjoy working it out. </li>
+    <li> Keep starting from first principles, explaining again and again what you are trying to do.</li>
 
-  <li> Don’t be hampered by the original problem statement. Try other problems in its neighborhood; maybe there is a better problem than yours. </li>
+    <li> Believe that this problem can be solved and that you will enjoy working it out. </li>
 
-  <li> Work an hour or so on it frequently. Talk about it; explain it to people. </li>
+    <li> Don’t be hampered by the original problem statement. Try other problems in its neighborhood; maybe there is a better problem than yours. </li>
+
+    <li> Work an hour or so on it frequently. Talk about it; explain it to people. </li>
+  </ul>
 </ul>
 
 * You and your research – Richard Hamming
