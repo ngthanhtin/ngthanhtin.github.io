@@ -6,9 +6,9 @@
   <li>Savage’s approach to research, via Mosteller（copy from Jun Liu’s webpage which is from Jon McAuliffe’s):</li>
   <ul>
 
-    As soon as a problem is stated, start right away to solve it. Use simple examples.
+    * As soon as a problem is stated, start right away to solve it. Use simple examples.
 
-    Keep starting from first principles, explaining again and again what you are trying to do.
+    * Keep starting from first principles, explaining again and again what you are trying to do.
 
     Believe that this problem can be solved and that you will enjoy working it out. 
 
