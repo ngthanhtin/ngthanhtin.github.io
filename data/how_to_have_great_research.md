@@ -17,6 +17,7 @@
     <li> Work an hour or so on it frequently. Talk about it; explain it to people. </li>
   </ul>
 </ul>
+
 <ul>
   <li>You and your research – Richard Hamming</li>
   <ul>
