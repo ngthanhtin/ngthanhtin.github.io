@@ -21,6 +21,7 @@
 <ul>
   <li>You and your research – Richard Hamming</li>
   <ul>
+    
     Do not be afraid to do first-class research.
 
     Courage to think hard about your genuinely curious questions, dare to ask the impossible questions (Shannon’s case).
