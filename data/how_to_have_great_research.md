@@ -17,23 +17,25 @@
     <li> Work an hour or so on it frequently. Talk about it; explain it to people. </li>
   </ul>
 </ul>
+<ul>
+  <li>You and your research – Richard Hamming</li>
+  <ul>
+    <li>Do not be afraid to do first-class research.</li>
 
-* You and your research – Richard Hamming
+    <li>Courage to think hard about your genuinely curious questions, dare to ask the impossible questions (Shannon’s case). </li>
 
-** Do not be afraid to do first-class research.
+    <li>Do not get the big thing right off, start with small basics and let it compound.</li>
 
-** Courage to think hard about your genuinely curious questions, dare to ask the impossible questions (Shannon’s case).
+    <li>Great scientists tolerate ambiguity.</li>
 
-** Do not get the big thing right off, start with small basics and let it compound.
+    <li>Take subconscious to your advantage (e.g. deeply immmerse into the problem, think of it in the sleep)</li>
 
-** Great scientists tolerate ambiguity.
+    <li>Ask “What are the important problems in my field?”; keep a list of 10-20 important problems and look for an attack.</li>
 
-** Take subconscious to your advantage (e.g. deeply immmerse into the problem, think of it in the sleep)
+    <li>Learn to sell your work</li>
+    
+    <li>“Great thoughts time”: Devote some small time of one day in a week ONLY to think and understand the bigger problems in the field, what’s important, what’s not.</li>
 
-** Ask “What are the important problems in my field?”; keep a list of 10-20 important problems and look for an attack.
-
-** Learn to sell your work
-
-** “Great thoughts time”: Devote some small time of one day in a week ONLY to think and understand the bigger problems in the field, what’s important, what’s not.
-
-** Drive + commitment > talent
+    <li>Drive + commitment > talent</li>
+  </ul>
+</ul>
