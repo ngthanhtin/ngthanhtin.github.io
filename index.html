@@ -196,25 +196,6 @@
           <p>This study proposes a coarse-to-fine fusion module between vision and language. This will help an agent learn a joint representation while navigating in a virtual environment.</p>
         </td>
       </tr> 
-
-      <tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()" bgcolor="#ffffd0">
-        <td style="padding:20px;width:25%;vertical-align:middle">
-          <div class="one">
-            <img src='images/vizdoom_instruction_two_goals.gif' width="180">
-          </div>
-          <script type="text/javascript">
-            function hypernerf_start() {
-              document.getElementById('hypernerf_image').style.opacity = "1";
-            }
-
-            function hypernerf_stop() {
-              document.getElementById('hypernerf_image').style.opacity = "0";
-            }
-            hypernerf_stop()
-          </script>
-        </td>
-        
-      </tr> 
 	      
 	<tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -338,22 +319,24 @@
           </td>
         </tr> -->
 
-        <tr onmouseout="mipnerf_stop()" onmouseover="mipnerf_start()">
-          <td style="padding:20px;width:25%;vertical-align:middle">
-            <div class="one">
-              <img src='images/meme.jpg' width="190">
-            </div>
-            <script type="text/javascript">
-              function mipnerf_start() {
-                document.getElementById('mipnerf_image').style.opacity = "1";
-              }
+			<tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()" bgcolor="#ffffd0">
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <img src='images/vizdoom_instruction_two_goals.gif' width="180">
+          </div>
+          <script type="text/javascript">
+            function hypernerf_start() {
+              document.getElementById('hypernerf_image').style.opacity = "1";
+            }
 
-              function mipnerf_stop() {
-                document.getElementById('mipnerf_image').style.opacity = "0";
-              }
-              mipnerf_stop()
-            </script>
-          </td>
+            function hypernerf_stop() {
+              document.getElementById('hypernerf_image').style.opacity = "0";
+            }
+            hypernerf_stop()
+          </script>
+        </td>
+        
+      </tr> 
 	<td style="padding:20px;width:75%;vertical-align:middle">
           <a href="">
             <papertitle>[Accepted] Language Grounding Network with Fourier Transform for Multi-Goal 3D Navigation</papertitle>
@@ -371,6 +354,23 @@
           <p></p>
           <p>This study outlines a fusion module based on Fourier Transform which helps an agent navigate in multi-goal 3D environments.</p>
         </td>
+			
+        <tr onmouseout="mipnerf_stop()" onmouseover="mipnerf_start()">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <img src='images/meme.jpg' width="190">
+            </div>
+            <script type="text/javascript">
+              function mipnerf_start() {
+                document.getElementById('mipnerf_image').style.opacity = "1";
+              }
+
+              function mipnerf_stop() {
+                document.getElementById('mipnerf_image').style.opacity = "0";
+              }
+              mipnerf_stop()
+            </script>
+          </td>
 		
           <td style="padding:20px;width:75%;vertical-align:middle">
             <a href="">
