@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List 100 - Things to Do Before I Die</title>
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+     <style>
+      body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    color: #333;
+}
+
+main {
+    background-color: #fff;
+    padding: 20px;
+    margin: auto;
+    max-width: 800px; /* Adjust based on your preference */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.checklist {
+    list-style-type: none;
+    padding: 0;
+}
+
+.checklist li {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+    padding-left: 30px; /* Space for the checkmark */
+}
+
+.checklist li.completed::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: green; /* Checkmark color */
+    font-size: 20px; /* Larger checkmark */
+}
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+}
+
+     </style>
+</head>
+<body>
+    <header>
+        <h1>List 100</h1>
+        <p>Things I want to do before I die. Please let me know if you have any recommendation.</p>
+        <p>Progress as of Dec 31, 2023: 40.75/92.</p>
+    </header>
+    <main>
+        <ul class="checklist">
+            <li class="">Learn Japanese</li>
+            <li class="completed">Live in another country</li>
+            <li>Start a nonprofit organization</li>
+            <li class="completed">See my book being sold at an airport outside Vietnam</li>
+            <!-- Add more items up to 100 -->
+        </ul>
+    </main>
+    <footer>
+        <!-- Optional footer content -->
+    </footer>
+</body>
+</html>
