@@ -26,10 +26,36 @@
             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); /* Shadow effect on hover */
         }
 
+        /* Project Styles */
+        .project {
+            background-color: #f9f9f9; /* Light grey background */
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px; /* Rounded corners */
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+            display: flex;
+            align-items: center;
+        }
+        .project-image {
+            flex: 0 0 190px; /* Do not grow or shrink, fixed width */
+            margin-right: 20px; /* Space between image and text */
+        }
         .project-image img {
-        width: 190px;  /* Fixed width */
-        height: 120px; /* Fixed height */
-        object-fit: cover; /* Ensures the image covers the set area, may crop */
+            width: 100%; /* Full width of the container */
+            height: auto;
+            border-radius: 5px; /* Rounded corners for images */
+        }
+        .project-content {
+            flex: 1; /* Take up remaining space */
+        }
+        .project-content h2 {
+            margin-top: 0; /* Remove margin top */
+        }
+        .project-content p {
+            margin-bottom: 0.5em; /* Space between paragraphs */
+        }
+        .project-content a {
+            color: #4CAF50; /* Green text for links */
         }
 
     </style>
@@ -47,6 +73,18 @@
     <main>
         <h1>Featured Projects</h1>
 
+        <div class="project">
+            <div class="project-image">
+                <img src='images/owlvit_box.jpg' alt="OWL-ViT + Segment Anything">
+            </div>
+            <div class="project-content">
+                <h2>OWL-ViT + Segment Anything</h2> 
+                <p>Combining OwlViT with Segment Anything - Open-vocabulary Detection and Segmentation (Text-conditioned, and Image-conditioned).</p>  
+                <a href="#">Project Page</a> /
+                <a href="https://github.com/ngthanhtin/owlvit_segment_anything">Code</a>
+            </div>
+        </div>
+        
         <div class="project">
             <h2>OWL-ViT + Segment Anything</h2> 
             <p>Combining OwlViT with Segment Anything - Open-vocabulary Detection and Segmentation (Text-conditioned, and Image-conditioned).</p>  
