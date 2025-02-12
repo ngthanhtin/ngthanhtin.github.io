@@ -90,7 +90,38 @@ a:hover {
        
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>	
 		  <heading id="publications"><b>Conference</b></heading>
-
+	
+	<tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()" >
+	        <td style="padding:20px;width:25%;vertical-align:middle">
+	          <div class="one">
+	            <img src='images/hot.png' width="180", height="150">
+	          </div>
+	          <script type="text/javascript">
+	            function hypernerf_start() {
+	              document.getElementById('hypernerf_image').style.opacity = "1";
+	            }
+	
+	            function hypernerf_stop() {
+	              document.getElementById('hypernerf_image').style.opacity = "0";
+	            }
+	            hypernerf_stop()
+	          </script>
+	        </td>
+	        <td style="padding:20px;width:75%;vertical-align:middle">
+	          <a href="">
+	            <papertitle>HoT: Highlighted Chain of Thought for Referencing Supportive Facts from Inputs</papertitle>
+	          </a>
+	          <br>
+	          <a href=""><strong>Tin Nguyen</strong>, Logan Bolton, Mohammad Reza Taesiri, Anh Totti Nguyen</a><br>
+	          <em> Arvix,</em> 2025 <br>
+		  <a href="https://highlightedchainofthought.github.io/">Website</a> /
+	          <a href="https://github.com/ngthanhtin/textual_grounding">Code</a> /
+	          <a href="">Paper</a>
+	          <p></p>
+	          <p>Large Language Models (LLMs) sometimes generate non-factual statements. To address this, the Highlighted Chain-of-Thought Prompting (HoT) technique was developed, enhancing responses by marking key facts with XML tags in both the query and the response. HoT improves upon traditional prompting methods in few-shot settings across various tasks, helping users more accurately identify correct LLM responses. However, it also increases the likelihood of users mistakenly accepting incorrect answers as correct.</p>
+	        </td>
+      </tr>
+		  
 	<tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()" >
         <td style="padding:20px;width:25%;vertical-align:middle">
           <div class="one">
@@ -121,38 +152,6 @@ a:hover {
 	  <a href="https://www.youtube.com/watch?v=7ofrbSPT1fA">Video</a>
           <p></p>
           <p>We proposed a part-based bird classifier that makes predictions based on part-wise descriptions. Our method directly utilizes human-provided descriptions (in this work, from GPT4). It outperforms CLIP and M&V by 10 points in CUB and 28 points in NABirds.</p>
-        </td>
-      </tr>
-
-      <tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()" >
-        <td style="padding:20px;width:25%;vertical-align:middle">
-          <div class="one">
-            <img src='images/hot.png' width="180", height="150">
-          </div>
-          <script type="text/javascript">
-            function hypernerf_start() {
-              document.getElementById('hypernerf_image').style.opacity = "1";
-            }
-
-            function hypernerf_stop() {
-              document.getElementById('hypernerf_image').style.opacity = "0";
-            }
-            hypernerf_stop()
-          </script>
-        </td>
-        <td style="padding:20px;width:75%;vertical-align:middle">
-          <a href="">
-            <papertitle>HoT: Highlighted Chain of Thought for Referencing Supportive Facts from Inputs</papertitle>
-          </a>
-          <br>
-          <a href=""><strong>Tin Nguyen</strong>, Logan Bolton, Mohammad Reza Taesiri, Anh Totti Nguyen</a><br>
-          <em> Arvix,</em> 2025 <be>
-          <be>
-	  <a href="https://highlightedchainofthought.github.io/">Website</a> /
-          <a href="https://github.com/ngthanhtin/textual_grounding">Code</a> /
-          <a href="">Paper</a>
-          <p></p>
-          <p>Large Language Models (LLMs) sometimes generate non-factual statements. To address this, the Highlighted Chain-of-Thought Prompting (HoT) technique was developed, enhancing responses by marking key facts with XML tags in both the query and the response. HoT improves upon traditional prompting methods in few-shot settings across various tasks, helping users more accurately identify correct LLM responses. However, it also increases the likelihood of users mistakenly accepting incorrect answers as correct.</p>
         </td>
       </tr>
 	       
